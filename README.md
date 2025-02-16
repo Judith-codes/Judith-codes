@@ -16,12 +16,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JudithMCherian&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JudithMCherian&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=Judith-codes&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Judith-codes&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudithMCherian&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judith-codes&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
 </p>
 
 ## 📫 Connect With Me
