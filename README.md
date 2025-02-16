@@ -15,8 +15,14 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=judithmcherian&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=judithmcherian&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JudithMCherian&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JudithMCherian&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JudithMCherian&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
+</p>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/judith-m-cherian-33205a327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
