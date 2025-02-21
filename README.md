@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Judith M Cherian!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+</p>
+
+
 ## 🚀 About Me
 - 🎓 B.Tech Engineering student in Computer Science.
 - 💡 Passionate about **coding, video editing, web designing, and management**.
