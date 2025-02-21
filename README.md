@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Judith M Cherian!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Judith M Cherian!
 
-## 🚀 About Me
+##  About Me
 - 🎓 B.Tech Engineering student in Computer Science.
 - 💡 Passionate about **coding, video editing, web designing, and management**.
 - 💻 Skilled in **Python, C, C++, Java, MySQL, and HTML**.
@@ -33,6 +33,8 @@
 ---
 
 ⭐ **"Striving to learn and build innovative solutions!"** 🚀
+
+---  
 
 
 <p><div align = 'center'><img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" /></div></p>
