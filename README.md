@@ -6,6 +6,11 @@
 - 💻 Skilled in **Python, C, C++, Java, MySQL, and HTML**.
 - 🌱 Currently exploring **full-stack development** and **AI/ML**.
 
+
+---  
+
+
+
 ## 🔧 Technologies & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
