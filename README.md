@@ -9,7 +9,7 @@
 
 ---  
 
-![Cartoon Sloth](https://media.giphy.com/media/xT9DPldJHzZKtOnFeI/giphy.gif)
+![Cartoon Sloth](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 
 
