@@ -6,7 +6,6 @@
 - 💻 Skilled in **Python, C, C++, Java, MySQL, and HTML**.
 - 🌱 Currently exploring **full-stack development** and **AI/ML**.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Judith-codes&theme=radical)
 
 
 
@@ -18,14 +17,21 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Judith-codes&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Judith-codes&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
-</p>
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judith-codes&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Judith-codes&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" alt="GitHub Stats">  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Judith-codes&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">  
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judith-codes&layout=compact&theme=radical&hide_border=true&card_width=400" width="48%" alt="Top Languages">  
+</p>  
+
+## 🚀 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Judith-codes&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 ## 📫 Connect With Me
