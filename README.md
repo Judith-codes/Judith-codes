@@ -6,7 +6,7 @@
 - 💻 Skilled in **Python, C, C++, Java, MySQL, and HTML**.
 - 🌱 Currently exploring **full-stack development** and **AI/ML**.
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Judith-codes&theme=radical)
 
 
 
