@@ -7,10 +7,6 @@
 - 🌱 Currently exploring **full-stack development** and **AI/ML**.
 
 
----  
-
-![Transparent Sloth](https://media.giphy.com/media/l0HlPjezGYjK5kJri/giphy.gif)
-
 
 
 
